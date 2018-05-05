@@ -63,7 +63,7 @@ final class Migrate_Cluster {
 			'style_body_font'              => 'font-body',
 			'style_heading_font'           => 'font-headers',
 			'style_font_script'            => 'google-font-subset',
-			'style_custom_css'             => 'style_custom_css',
+			'style_custom_css'             => 'custom_css',
 			'site_background_color'        => 'site_background_color',
 
 			// Blog Settings.
